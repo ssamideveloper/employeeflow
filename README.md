@@ -1,7 +1,3 @@
-Got it! Here's the updated README with your correct GitHub username (`ssamideveloper`) applied to the image URLs.
-
----
-
 # 🚀 EmployeeFlow
 
 A modern, real-time **Employee Management & Task Tracking** web application built using **React + TypeScript**.  
