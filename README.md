@@ -244,8 +244,8 @@ Optional backend version with real database
 Sami
 📧 Email: samimustafa072@gmail.com
 
-🔗 LinkedIn: (add your link)
-💻 GitHub: ssamideveloper
+🔗 LinkedIn: (https://www.linkedin.com/in/samimustafaa/)
+💻 GitHub: (https://github.com/ssamideveloper)
 
 📄 License
 
