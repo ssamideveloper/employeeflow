@@ -1,0 +1,5 @@
+{
+  "name": "EmployeeFlow",
+  "description": "A real-time enterprise employee management platform with Kanban, Chat, and AI assistance.",
+  "requestFramePermissions": []
+}
