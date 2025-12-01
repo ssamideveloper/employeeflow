@@ -239,13 +239,14 @@ Richer admin analytics dashboard
 Better message search and channel system
 Optional backend version with real database
 
-👨‍💻 Author
+## 👨‍💻 Author
 
-Sami
-📧 Email: samimustafa072@gmail.com
+**Sami**  
+📧 Email: samimustafa072@gmail.com  
 
-🔗 [samimustafaa](https://www.linkedin.com/in/samimustafaa/) 
-💻 [ssamideveloper](https://github.com/ssamideveloper)
+🔗 LinkedIn: [samimustafaa](https://www.linkedin.com/in/samimustafaa/)  
+💻 GitHub: [ssamideveloper](https://github.com/ssamideveloper)
+
 
 
 
