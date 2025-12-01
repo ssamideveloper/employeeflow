@@ -1,3 +1,7 @@
+Got it! Here's the updated README with your correct GitHub username (`ssamideveloper`) applied to the image URLs.
+
+---
+
 # 🚀 EmployeeFlow
 
 A modern, real-time **Employee Management & Task Tracking** web application built using **React + TypeScript**.  
@@ -155,49 +159,49 @@ The app feels like a real SaaS platform with real-time behavior and clean UI.
 ### Dashboard
 
 <p align="center">
-  <img src="./img/1.png" alt="Dashboard" width="800" />
+  <img src="https://github.com/ssamideveloper/employeeflow/raw/main/img/1.png" alt="Dashboard" width="800" />
 </p>
 
 ### Task Board
 
 <p align="center">
-  <img src="./img/2.png" alt="Task Board" width="800" />
+  <img src="https://github.com/ssamideveloper/employeeflow/raw/main/img/2.png" alt="Task Board" width="800" />
 </p>
 
 ### Messaging & Chat
 
 <p align="center">
-  <img src="./img/3.png" alt="Messaging" width="800" />
+  <img src="https://github.com/ssamideveloper/employeeflow/raw/main/img/3.png" alt="Messaging" width="800" />
 </p>
 
 ### Leave Management
 
 <p align="center">
-  <img src="./img/4.png" alt="Leave Management" width="800" />
+  <img src="https://github.com/ssamideveloper/employeeflow/raw/main/img/4.png" alt="Leave Management" width="800" />
 </p>
 
 ### Attendance Tracker
 
 <p align="center">
-  <img src="./img/5.png" alt="Attendance Tracker" width="800" />
+  <img src="https://github.com/ssamideveloper/employeeflow/raw/main/img/5.png" alt="Attendance Tracker" width="800" />
 </p>
 
 ### Employees
 
 <p align="center">
-  <img src="./img/6.png" alt="Employees" width="800" />
+  <img src="https://github.com/ssamideveloper/employeeflow/raw/main/img/6.png" alt="Employees" width="800" />
 </p>
 
 ### Audit Logs
 
 <p align="center">
-  <img src="./img/7.png" alt="Audit Logs" width="800" />
+  <img src="https://github.com/ssamideveloper/employeeflow/raw/main/img/7.png" alt="Audit Logs" width="800" />
 </p>
 
 ### Employees & Admin Profile
 
 <p align="center">
-  <img src="./img/8.png" alt="Employees / Admin Profile" width="800" />
+  <img src="https://github.com/ssamideveloper/employeeflow/raw/main/img/8.png" alt="Employees / Admin Profile" width="800" />
 </p>
 
 ---
@@ -205,48 +209,67 @@ The app feels like a real SaaS platform with real-time behavior and clean UI.
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/employeeflow.git
+git clone https://github.com/ssamideveloper/employeeflow.git
 cd employeeflow
 npm install
 npm run dev
-
-🧩 Detailed Feature Explanation
-🔐 Authentication Flow
-
-Admin creates Employee/Administrator with auto password
-First login forces password update
-Login session saved so it never asks again
-
-📋 AI Task Checklist
-
-Admin writes task description
-Click Generate Checklist
-AI analyzes text and creates a list of steps
-Employee sees the checklist and checks off items
-
-📬 Notification Behavior
-
-Task update → opens task
-New message → opens chat window
-Task finished → admin gets notification
-
-🔮 Planned Improvements
-
-Better sign-in UX
-Smarter AI assistant with project-wide context
-Richer admin analytics dashboard
-Better message search and channel system
-Optional backend version with real database
-
-👨‍💻 Author
-Sami
-📧 Email: samimustafa072@gmail.com
-
-🔗 LinkedIn: (https://www.linkedin.com/in/samimustafaa/)
-💻 GitHub: (https://github.com/ssamideveloper)
-
-📄 License
-
-This project is open for educational and portfolio purposes.
-You may modify and use it, but please give credit when possible.
 ```
+
+---
+
+## 📝 Detailed Feature Explanation
+
+### 🔐 Authentication Flow
+
+- Admin creates Employee/Administrator with auto password
+- First login forces password update
+- Login session saved so it never asks again
+
+### 📋 AI Task Checklist
+
+- Admin writes task description
+- Click "Generate Checklist"
+- AI analyzes text and creates a list of steps
+- Employee sees the checklist and checks off items
+
+### 📬 Notification Behavior
+
+- Task update → opens task
+- New message → opens chat window
+- Task finished → admin gets notification
+
+---
+
+## 🔮 Planned Improvements
+
+- Better sign-in UX
+- Smarter AI assistant with project-wide context
+- Richer admin analytics dashboard
+- Better message search and channel system
+- Optional backend version with real database
+
+---
+
+## 👨‍💻 Author
+
+**Sami**  
+📧 Email: [samimustafa072@gmail.com](mailto:samimustafa072@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/samimustafaa](https://www.linkedin.com/in/samimustafaa/)  
+💻 GitHub: [ssamideveloper](https://github.com/ssamideveloper)
+
+---
+
+## 📄 License
+
+This project is open for educational and portfolio purposes.  
+You may modify and use it, but please give credit when possible.
+
+---
+
+### Key Updates:
+
+- **GitHub Username**: I replaced the placeholder (`YOUR_USERNAME`) with your actual GitHub username `ssamideveloper`.
+  
+Make sure the `img` folder is properly placed in your repository and contains the corresponding image files. This will ensure they display correctly in the README.
+
+Let me know if you need further adjustments!
